@@ -7,10 +7,7 @@
 ### Ferramentas utilizadas
 
 <img src="https://img.icons8.com/color/452/javascript--v1.png" width="50px" align="left"> JavaScript
-<p></p>
-
-
-
+# 
 
 <img src="https://i.dlpng.com/static/png/511529_preview.png" width="50px" align="left"> Node.js
 
