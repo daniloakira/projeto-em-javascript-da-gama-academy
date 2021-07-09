@@ -6,7 +6,7 @@
 
 ### Ferramentas utilizadas
 
-<img src="https://img.icons8.com/color/452/javascript--v1.png" width="50px" align="left"> JavaScript
+<img src="https://img.icons8.com/color/452/javascript--v1.png" width="50px" align="left"> JavaScript</br>
 
 
 
